@@ -10,4 +10,5 @@
 ## Стек технологий
 
 - **Python**
+- **Pytest**
 - **Playwright** для Python
